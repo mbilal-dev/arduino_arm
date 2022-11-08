@@ -7,7 +7,7 @@ This robotic arm has been created at a model scale level, to demostrate how a re
 ## Components
 
 The robotic arm uses:
-1. One Arduino Uno R3 Circuitboard (equipped with an ATmega 328 microchip).
+1. One Arduino Uno R3 Circuitboard (equipped with an ATmega 328  micro-controller).
 2. One Large Breadboard.
 3. Two SG90 Servo Motors.
 4. One B10k Potentiometer.
