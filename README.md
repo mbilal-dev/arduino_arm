@@ -19,6 +19,10 @@ The Two SG90 Servo Motors, defined as servoArm, and servoJoint, function as the 
 The exoskeleton is equipped with a B10k Potentiometer. Its analog reading is stored in a integer variable, defined as potVal.
 
 The potVal variable is then mapped onto another variable defined as potMap. This potMap maps the analog value of Potentiometer from 950 to 750 and onto a angular value, from 60 to 170.
+
+##Schematic Design
+- [@Design](https://github.com/mbilal-dev/arduino_arm/blob/main/Arduino%20Arm%20-%20Bilal%20Baba.pdf)
+
 ## Authors
 
 - [@Bilal Baba](https://www.github.com/mbilal-dev)
